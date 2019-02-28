@@ -6,7 +6,7 @@
 
 4. HTML, CSS, JS, PHP.
 
-5. https://github.com/julia-korotkina
+5. [Code example](https://github.com/julia-korotkina)
 
 6. I have experience  in the layout of sites, working with API, writing parsers for collecting and analyzing information.
 
