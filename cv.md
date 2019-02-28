@@ -1,5 +1,5 @@
 #### 1. Basic info <br />
-Name: Yuliya 
+Name: Yuliya <br />
 Surname: Karotkina
 
 #### 2. Contacts <br />
