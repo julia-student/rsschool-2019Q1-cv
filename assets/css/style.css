@@ -149,6 +149,10 @@ p.code-example a{
     float: right;
 }
 
+p.code-example a:hover, p.code-example a:active {
+    background-color:#0059D9;
+}
+
 /* END ABOUT ME SECTION*/
 
 /* PERSONAL SECTION*/
