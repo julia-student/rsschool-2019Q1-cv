@@ -52,7 +52,7 @@ section:not(:first-child) {
 
 /* INTRO SECTION*/
 section.introduction {
-    background-image: url('assets/images/em-2.jpg');
+    background-image: url('https://julia-student.github.io/rsschool-2019Q1-cv/assets/images/em-2.jpg');
     height: 500px; 
     background-position: center;
     background-repeat: no-repeat;
@@ -100,23 +100,23 @@ div.introduction {
 }
 
 .social-icon-fb {
-    background: url(assets/images/icons.png) no-repeat -52px -21px;
+    background: url(https://julia-student.github.io/rsschool-2019Q1-cv/assets/images/icons.png) no-repeat -52px -21px;
     background-size: 170px;
     float: left;
 }
 
 .social-icon-inst {
-    background: url(assets/images/icons.png) no-repeat -48px -69px;
+    background: url(https://julia-student.github.io/rsschool-2019Q1-cv/assets/images/icons.png) no-repeat -48px -69px;
     background-size: 170px;
     float: left;
 }
 .social-icon-ggl {
-    background: url(assets/images/icons.png) no-repeat -92px -67px;
+    background: url(https://julia-student.github.io/rsschool-2019Q1-cv/assets/images/icons.png) no-repeat -92px -67px;
     background-size: 170px;
     float: right;
 }
 .social-icon-lin {
-    background: url(assets/images/icons.png) no-repeat -145px -69px;
+    background: url(https://julia-student.github.io/rsschool-2019Q1-cv/assets/images/icons.png) no-repeat -145px -69px;
     background-size: 170px;
     float: right;
     margin-right: 5px;
